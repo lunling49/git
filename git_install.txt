@@ -1,0 +1,11 @@
+linux安装git
+源码安装：1、从官网下载源码 -- wget+网址+软件名
+	  2、解压 -- tar -xzvf+软件名
+	  3、依次输入 ./config，make，sudo make install 安装
+
+Windows安装git
+	1、官网下载安装，在桌面右键点击git bash弹出命令窗说明安装成功
+	2、在命令行输入：
+		git config -- global user.name "your name"
+		git config -- global user.email "email@xx.com"
+备注：用了--global参数，表示这台机器上所有的git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和email
