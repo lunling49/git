@@ -12,7 +12,7 @@
 
 5、git commit -m "改动说明"，把暂存区的所有修改提交到分支
 
-![img](file:///C:\Users\china\AppData\Local\Temp\ksohtml356\wps1.png) 
+![img](https://github.com/lunling49/images/blob/master/gitbase.jpg)
 
 ##### 版本回退：
 
